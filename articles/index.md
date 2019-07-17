@@ -1,4 +1,4 @@
-# naver
+# NAVER
 
 [NAVER](https://www.naver.com/) 
 
