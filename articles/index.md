@@ -1,6 +1,6 @@
 # naver
 
-[NAVER](naver.com) 
+[NAVER](https://www.naver.com/) 
 
 # Azure DevOps HOL
 
